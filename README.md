@@ -14,6 +14,7 @@ docker pull tristann9/docker-nomachine-desktop
 
 # Enviroment
 USER -> SSH/NX Login user
+
 PASSWORD -> User password
 
 # Usage
@@ -32,8 +33,11 @@ ssh test@localhost -p 23
 Download and Install NoMachine client: https://www.nomachine.com/download
 
 Host/IP: Container Host
+
 Port: 4001
+
 User: test
+
 Password: test
 
 ## Directly via Docker
